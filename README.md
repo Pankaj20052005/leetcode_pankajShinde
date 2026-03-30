@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
