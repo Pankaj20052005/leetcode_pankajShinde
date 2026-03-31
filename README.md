@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Pankaj20052005/Github/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0300-longest-increasing-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 ## Queue
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
+## Hash Table
+|  |
+| ------- |
+| [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
+## Math
+|  |
+| ------- |
+| [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 <!---LeetCode Topics End-->
