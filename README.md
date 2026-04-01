@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 ## Math
 |  |
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Pankaj20052005/Github/tree/master/0207-course-schedule) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
