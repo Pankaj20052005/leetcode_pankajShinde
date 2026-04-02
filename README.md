@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Pankaj20052005/Github/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
 | [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Pankaj20052005/Github/tree/master/0213-house-robber-ii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
