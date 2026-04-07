@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pankaj20052005/Github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
