@@ -50,10 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pankaj20052005/Github/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 ## Binary Search
 |  |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj20052005/Github/tree/master/0232-implement-queue-using-stacks) |
 ## Monotonic Stack
 |  |
