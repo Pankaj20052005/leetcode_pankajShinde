@@ -51,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pankaj20052005/Github/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pankaj20052005/Github/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 ## Binary Search
 |  |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Pankaj20052005/Github/tree/master/0207-course-schedule) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
