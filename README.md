@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Pankaj20052005/Github/tree/master/0207-course-schedule) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pankaj20052005/Github/tree/master/0112-path-sum) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
