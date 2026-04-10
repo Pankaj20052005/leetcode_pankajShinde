@@ -209,9 +209,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pankaj20052005/Github/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Pankaj20052005/Github/tree/master/0206-reverse-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pankaj20052005/Github/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pankaj20052005/Github/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pankaj20052005/Github/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
