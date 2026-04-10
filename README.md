@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Pankaj20052005/Github/tree/master/0061-rotate-list) |
 ## Stack
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Pankaj20052005/Github/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Pankaj20052005/Github/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Pankaj20052005/Github/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Pankaj20052005/Github/tree/master/0206-reverse-linked-list) |
