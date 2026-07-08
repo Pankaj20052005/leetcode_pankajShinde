@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Pankaj20052005/Github/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
