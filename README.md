@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj20052005/Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj20052005/Github/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj20052005/Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj20052005/Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Pankaj20052005/Github/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0300-longest-increasing-subsequence) |
