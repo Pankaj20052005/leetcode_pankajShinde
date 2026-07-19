@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
+| [0507-perfect-number](https://github.com/Pankaj20052005/Github/tree/master/0507-perfect-number) |
 ## Union-Find
 |  |
 | ------- |
