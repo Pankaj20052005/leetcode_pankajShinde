@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj20052005/Github/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pankaj20052005/Github/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pankaj20052005/Github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pankaj20052005/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj20052005/Github/tree/master/0424-longest-repeating-character-replacement) |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pankaj20052005/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj20052005/Github/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pankaj20052005/Github/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
