@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pankaj20052005/Github/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Pankaj20052005/Github/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj20052005/Github/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pankaj20052005/Github/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Pankaj20052005/Github/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj20052005/Github/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Pankaj20052005/Github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Pankaj20052005/Github/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
