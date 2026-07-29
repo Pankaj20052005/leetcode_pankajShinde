@@ -2,30 +2,23 @@ import java.util.*;
 
 class Solution {
     public boolean isValid(String s) {
-        Stack<Character> st = new Stack<>();
-        int n = s.length();
+        Deque<Character> stack = new ArrayDeque<>();
 
-        for(int i = 0; i < n; i++){
-            char c = s.charAt(i);
-
-            if(c == '(' || c == '{' || c == '['){
-                st.push(c);
-            }
-            else{
-                if(st.isEmpty()){
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '{' || c == '[') {
+                stack.push(c);
+            } else {
+                if (stack.isEmpty()) return false;
+                
+                char top = stack.pop();
+                if ((c == ')' && top != '(') ||
+                    (c == '}' && top != '{') ||
+                    (c == ']' && top != '[')) {
                     return false;
                 }
-
-                char a = st.pop();
-
-                if((c == ')' && a != '(') || 
-                   (c == '}' && a != '{') || 
-                   (c == ']' && a != '[')){
-                    return false;
-                }   
             }
         }
 
-        return st.isEmpty();
+        return stack.isEmpty();
     }
 }
