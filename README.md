@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
 ## Queue
@@ -229,11 +230,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pankaj20052005/Github/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Pankaj20052005/Github/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Pankaj20052005/Github/tree/master/0232-implement-queue-using-stacks) |
+| [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
