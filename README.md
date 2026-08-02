@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
+| [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
 ## Queue
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0300-longest-increasing-subsequence) |
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pankaj20052005/Github/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0507-perfect-number](https://github.com/Pankaj20052005/Github/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 ## Union-Find
 |  |
 | ------- |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pankaj20052005/Github/tree/master/0011-container-with-most-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
