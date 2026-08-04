@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
+| [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pankaj20052005/Github/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
+| [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
