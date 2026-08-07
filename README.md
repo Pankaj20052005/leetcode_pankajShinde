@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Pankaj20052005/Github/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pankaj20052005/Github/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -224,12 +225,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/Pankaj20052005/Github/tree/master/0981-time-based-key-value-store) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pankaj20052005/Github/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pankaj20052005/Github/tree/master/0039-combination-sum) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pankaj20052005/Github/tree/master/0011-container-with-most-water) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Game Theory
 |  |
 | ------- |
@@ -374,4 +378,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pankaj20052005/Github/tree/master/3345-smallest-divisible-digit-product-i) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
