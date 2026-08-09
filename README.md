@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Queue
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 ## Tree
 |  |
 | ------- |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0507-perfect-number](https://github.com/Pankaj20052005/Github/tree/master/0507-perfect-number) |
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Pankaj20052005/Github/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Union-Find
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pankaj20052005/Github/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -389,4 +394,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
