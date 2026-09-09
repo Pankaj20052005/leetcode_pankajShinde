@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pankaj20052005/Github/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj20052005/Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Pankaj20052005/Github/tree/master/0128-longest-consecutive-sequence) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pankaj20052005/Github/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pankaj20052005/Github/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Pankaj20052005/Github/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Interactive
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
