@@ -1,23 +1,27 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum(int[] nums, int target) {
+        
         List<List<Integer>> result = new ArrayList<>();
-        backtrack(result,new ArrayList<>(), candidates, target, 0);
+        backtrack(nums, target, 0, new ArrayList<>(), result);
         return result;
     }
 
-    static void backtrack(List<List<Integer>> result, List<Integer> cur, int[] candidates, int target, int index){
-        if(target<0){
+    public void backtrack(int[] nums, int remaining, int startIdx, List<Integer> path, List<List<Integer>> result){
+
+        if(remaining == 0){
+            result.add(new ArrayList<>(path));
             return;
         }
 
-        if(target == 0){
-            result.add(new ArrayList<>(cur));
-            return;
+        for(int i = startIdx; i < nums.length; i++){
+
+            if(nums[i] > remaining){
+                continue;
+            }
+
+            path.add(nums[i]);
+            backtrack(nums, remaining - nums[i], i, path, result);
+            path.remove(path.size() - 1);
         }
-        for(int i = index; i< candidates.length; i++){
-            cur.add(candidates[i]);
-            backtrack(result, cur, candidates, target - candidates[i], i);
-            cur.remove(cur.size()-1);
-        } 
     }
 }
