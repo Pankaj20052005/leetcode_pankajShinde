@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Pankaj20052005/Github/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
 | ------- |
