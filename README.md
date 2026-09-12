@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pankaj20052005/Github/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pankaj20052005/Github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pankaj20052005/Github/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pankaj20052005/Github/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Pankaj20052005/Github/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Queue
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Pankaj20052005/Github/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Pankaj20052005/Github/tree/master/1510-stone-game-iv) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pankaj20052005/Github/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Pankaj20052005/Github/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Pankaj20052005/Github/tree/master/0981-time-based-key-value-store) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pankaj20052005/Github/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pankaj20052005/Github/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pankaj20052005/Github/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
