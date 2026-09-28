@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Pankaj20052005/Github/tree/master/0981-time-based-key-value-store) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pankaj20052005/Github/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pankaj20052005/Github/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Pankaj20052005/Github/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -502,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Pankaj20052005/Github/tree/master/0509-fibonacci-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
