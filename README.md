@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj20052005/Github/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Pankaj20052005/Github/tree/master/0981-time-based-key-value-store) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pankaj20052005/Github/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pankaj20052005/Github/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Pankaj20052005/Github/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pankaj20052005/Github/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Pankaj20052005/Github/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Pankaj20052005/Github/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Algorithm X
 |  |
