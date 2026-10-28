@@ -1,21 +1,24 @@
 class Solution {
 
-    int maxd = 0;
+    public int diameter = 0;
 
     public int diameterOfBinaryTree(TreeNode root) {
         height(root);
-        return maxd;
+        return diameter;
     }
 
-    public int height(TreeNode root){
-        if(root == null) return 0;
+    private int height(TreeNode node){
 
-        int left = height(root.left);
-        int right = height(root.right);
+        if(node == null){
+            return 0;
+        }
 
-        int cd = left + right;
-        maxd = Math.max(cd, maxd);
 
-        return 1 + Math.max(left, right);
+        int leftHeight = height(node.left);
+        int rightHeight = height(node.right);
+
+        diameter = Math.max(diameter, leftHeight + rightHeight);
+
+        return 1 + Math.max(leftHeight, rightHeight);
     }
 }
