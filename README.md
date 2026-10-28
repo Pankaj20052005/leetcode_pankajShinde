@@ -533,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Pankaj20052005/Github/tree/master/0051-n-queens) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
