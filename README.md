@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankaj20052005/Github/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankaj20052005/Github/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Pankaj20052005/Github/tree/master/3731-find-missing-elements) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pankaj20052005/Github/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Queue
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/Pankaj20052005/Github/tree/master/1510-stone-game-iv) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Pankaj20052005/Github/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Pankaj20052005/Github/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pankaj20052005/Github/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankaj20052005/Github/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pankaj20052005/Github/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pankaj20052005/Github/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pankaj20052005/Github/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Pigeonhole Principle
 |  |
 | ------- |
