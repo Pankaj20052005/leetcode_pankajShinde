@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankaj20052005/Github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Pankaj20052005/Github/tree/master/3310-remove-methods-from-project) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/Pankaj20052005/Github/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
@@ -374,11 +377,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Pankaj20052005/Github/tree/master/0214-shortest-palindrome) |
+| [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [1392-longest-happy-prefix](https://github.com/Pankaj20052005/Github/tree/master/1392-longest-happy-prefix) |
 ## Design
 |  |
