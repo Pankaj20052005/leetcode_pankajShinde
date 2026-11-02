@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Pankaj20052005/Github/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Pankaj20052005/Github/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Pankaj20052005/Github/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Pankaj20052005/Github/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pankaj20052005/Github/tree/master/0079-word-search) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Pankaj20052005/Github/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pankaj20052005/Github/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Pankaj20052005/Github/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pankaj20052005/Github/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Pankaj20052005/Github/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankaj20052005/Github/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Pankaj20052005/Github/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Pankaj20052005/Github/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj20052005/Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankaj20052005/Github/tree/master/3841-palindromic-path-queries-in-a-tree) |
