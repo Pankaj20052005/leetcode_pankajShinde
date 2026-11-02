@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Pankaj20052005/Github/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Pankaj20052005/Github/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pankaj20052005/Github/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0300-longest-increasing-subsequence) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Pankaj20052005/Github/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj20052005/Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj20052005/Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Pankaj20052005/Github/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/Pankaj20052005/Github/tree/master/0704-binary-search) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Pankaj20052005/Github/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/Pankaj20052005/Github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pankaj20052005/Github/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pankaj20052005/Github/tree/master/0424-longest-repeating-character-replacement) |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pankaj20052005/Github/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pankaj20052005/Github/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Pankaj20052005/Github/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankaj20052005/Github/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pankaj20052005/Github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj20052005/Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Pankaj20052005/Github/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Pankaj20052005/Github/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pankaj20052005/Github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-car-fleet](https://github.com/Pankaj20052005/Github/tree/master/0853-car-fleet) |
@@ -537,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Pankaj20052005/Github/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pankaj20052005/Github/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/Pankaj20052005/Github/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankaj20052005/Github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pankaj20052005/Github/tree/master/3882-minimum-xor-path-in-a-grid) |
