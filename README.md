@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pankaj20052005/Github/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Pankaj20052005/Github/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj20052005/Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pankaj20052005/Github/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Pankaj20052005/Github/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Pankaj20052005/Github/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Pankaj20052005/Github/tree/master/0213-house-robber-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Pankaj20052005/Github/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Pankaj20052005/Github/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Pankaj20052005/Github/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Pankaj20052005/Github/tree/master/0189-rotate-array) |
 | [0447-number-of-boomerangs](https://github.com/Pankaj20052005/Github/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankaj20052005/Github/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Pankaj20052005/Github/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Pankaj20052005/Github/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Pankaj20052005/Github/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankaj20052005/Github/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pankaj20052005/Github/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Pankaj20052005/Github/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pankaj20052005/Github/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/Pankaj20052005/Github/tree/master/0567-permutation-in-string) |
