@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankaj20052005/Github/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Pankaj20052005/Github/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankaj20052005/Github/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Pankaj20052005/Github/tree/master/0572-subtree-of-another-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Pankaj20052005/Github/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Pankaj20052005/Github/tree/master/0404-sum-of-left-leaves) |
 | [0733-flood-fill](https://github.com/Pankaj20052005/Github/tree/master/0733-flood-fill) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/Pankaj20052005/Github/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Pankaj20052005/Github/tree/master/3310-remove-methods-from-project) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankaj20052005/Github/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
