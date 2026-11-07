@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Pankaj20052005/Github/tree/master/1019-next-greater-node-in-linked-list) |
 | [1095-find-in-mountain-array](https://github.com/Pankaj20052005/Github/tree/master/1095-find-in-mountain-array) |
 | [1140-stone-game-ii](https://github.com/Pankaj20052005/Github/tree/master/1140-stone-game-ii) |
+| [1882-process-tasks-using-servers](https://github.com/Pankaj20052005/Github/tree/master/1882-process-tasks-using-servers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Pankaj20052005/Github/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Pankaj20052005/Github/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Pankaj20052005/Github/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Pankaj20052005/Github/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Pankaj20052005/Github/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Pankaj20052005/Github/tree/master/0347-top-k-frequent-elements) |
+| [1882-process-tasks-using-servers](https://github.com/Pankaj20052005/Github/tree/master/1882-process-tasks-using-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pankaj20052005/Github/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Pankaj20052005/Github/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
